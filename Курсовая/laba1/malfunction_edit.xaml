@@ -1,0 +1,11 @@
+﻿<Window x:Class="laba1.Window8"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавить неисправность" Height="223.881" Width="327.901" Icon="image/WrenchIcon_1352207275.png" ResizeMode="NoResize">
+    <Grid>
+        <Label Content="Наименование неисправности:" HorizontalAlignment="Left" Margin="61,32,0,0" VerticalAlignment="Top" Width="189"/>
+        <TextBox x:Name="name_mal" HorizontalAlignment="Left" Height="23" Margin="61,76,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="189" RenderTransformOrigin="0.046,-0.65"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="61,121,0,0" VerticalAlignment="Top" Width="189" Height="30" Click="Add_Click"/>
+
+    </Grid>
+</Window>

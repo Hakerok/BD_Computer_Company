@@ -1,0 +1,16 @@
+﻿<Window x:Class="laba1.Window5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Запасные части" Height="369" Width="387.605" Icon="image\shesterenka.png" ResizeMode="NoResize">
+    <Grid Margin="0,0,2,-2">
+        <DataGrid x:Name="spdg" HorizontalAlignment="Left" VerticalAlignment="Top" Height="265" Width="361" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Наименование " Binding="{Binding Path=Name}"/>
+                <DataGridTextColumn Header="Количество" Binding="{Binding Path=Number}"/>
+                <DataGridTextColumn Header="Стоимость" Binding="{Binding Path=Cost}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="211,284,0,0" Click="back_Click" Height="39"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="10,284,0,0" VerticalAlignment="Top" Width="150" Height="39" Click="Add_Click"/>
+    </Grid>
+</Window>

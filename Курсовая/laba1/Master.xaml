@@ -1,0 +1,26 @@
+﻿<Window x:Class="laba1.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Мастера" Height="400" Width="421.912" Icon="image/admin_256.png" ResizeMode="NoResize">
+    <Grid>
+        <DataGrid x:Name="msdg" HorizontalAlignment="Left" Margin="10,1,0,0" VerticalAlignment="Top" Height="268" Width="383" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0.391"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.993"/>
+                </TransformGroup>
+            </DataGrid.RenderTransform>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="№" Binding="{Binding Path=ID}"/>
+                <DataGridTextColumn Header="Фамилия Имя Отчество" Binding="{Binding Path=Name}"/>
+                <DataGridTextColumn Header="Район работы" Binding="{Binding Path=Adress.Name}"/>
+                <DataGridTextColumn Header="Должность" Binding="{Binding Path=Dol}"/>
+               </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Добавить " HorizontalAlignment="Left" Margin="10,300,0,0" VerticalAlignment="Top" Width="157" Height="40" Click="Add_Click"/>
+        <Button Content="Назад" HorizontalAlignment="Left" Margin="240,300,0,0" VerticalAlignment="Top" Width="157" Height="40" Click="back_Click"/>
+
+    </Grid>
+</Window>

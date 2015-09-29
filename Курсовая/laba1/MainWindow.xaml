@@ -1,0 +1,140 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="laba1.MainWindow"
+        Title="Компьютерное Бюро &quot;ГАЕЧКА&quot;" Height="521.209" Width="1332.194" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,2,-20" Height="500" VerticalAlignment="Bottom">
+
+        <Button x:Name="exit" Content="Выход" HorizontalAlignment="Left" Margin="1119,445,0,0" VerticalAlignment="Top" Width="75" Click="exit_Click" RenderTransformOrigin="2.585,8.304" Height="20" Background="#FFC7C7C7" Foreground="Red"/>
+        <DataGrid x:Name="grMain" AutoGenerateColumns="False" IsReadOnly="True" Margin="10,68,12,69" RenderTransformOrigin="0.5,0.5" BorderBrush="#FFA9AF68">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="№" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Тип работы" Binding="{Binding Typejob.Name}"/>
+                <DataGridTextColumn Header="ФИО клиента" Binding="{Binding Customer}"/>
+                <DataGridTextColumn Header="Неисправность" Binding="{Binding Malfunction.Name}"/>
+                <DataGridTextColumn Header="Мастер" Binding="{Binding Master.Name}"/>
+                <DataGridTextColumn Header="Телефон" Binding="{Binding Telephone}"/>
+                <DataGridTextColumn Header="Район" Binding="{Binding Adress.Name}"/>
+                <DataGridTextColumn Header="Необходимые запасные части" Binding="{Binding SpareParts.Name}"/>
+                <DataGridTextColumn Header="Скидка" Binding="{Binding Discounts.Name}"/>
+                <DataGridTextColumn Header="Дата добавления" Binding="{Binding DateOfCompletion, StringFormat={}{0:dd.MM.yyyy}}"/>
+                <DataGridTextColumn Header="Время выполнеия" Binding="{Binding TimeOfCompletion, StringFormat=hh:mm}"/>
+                <DataGridTemplateColumn Header="Действия">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <Button Grid.Column="0"  Content="Изменить" Tag="{Binding Id}" Click="edit_Click"/>
+                                <Button Grid.Column="1" Content="Удалить" Tag="{Binding Id}" Click="del_Click"/>
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Cтатус выполнения">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <Button Grid.Column="0"  Content="Выполнено" Tag="{Binding Id}" Click="Done_Click"/>
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="seath" Content="Фильтровать" HorizontalAlignment="Left" Margin="1186,35,0,0" VerticalAlignment="Top" Width="125" Click="seath_Click" Height="23" Foreground="Red"/>
+        <Label Content="Тип работы:" HorizontalAlignment="Left" Margin="131,34,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="26" Width="76"/>
+        <Label Content="Район:" HorizontalAlignment="Left" Margin="455,35,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="26" Width="54"/>
+        <Label Content="Мастер:" HorizontalAlignment="Left" Margin="745,34,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="26" Width="56"/>
+        <ComboBox x:Name="typejob" HorizontalAlignment="Left" Margin="207,37,0,0" VerticalAlignment="Top" Width="240" Height="23">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#FF7A7A7A" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <ComboBox x:Name="adress" HorizontalAlignment="Left" Margin="499,37,0,0" VerticalAlignment="Top" Width="240" Height="23">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <ComboBox x:Name="master" HorizontalAlignment="Left" Margin="801,37,0,0" VerticalAlignment="Top" Width="240" Height="23">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Menu HorizontalAlignment="Left" Height="23" VerticalAlignment="Top" Width="1323" Background="#FF9B9B9B" Margin="0,-2,0,0">
+            <MenuItem Header="Файл" Background="#FF9B9B9B">
+                <MenuItem Header="Печать" Click="print_Click">
+                    <MenuItem.Icon>
+                        <Image Source="image\images.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator Foreground="Red" Background="Red"/>
+               <MenuItem Header="Выход" Click="exit_Click">
+                    <MenuItem.Icon>
+                        <Image Source="image\exit.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Добавление">
+                <MenuItem Header="Добавить клиента" Click="dob_Click">
+                    <MenuItem.Icon>
+                        <Image Source="image\clients.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator Background="Red"/>
+                <MenuItem Header="Добавить мастера" Click="Master_Click">
+                    <MenuItem.Icon>
+                        <Image Source="image\admin_256.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator Background="Red"/>
+                <MenuItem Header="Добавить запасные части" Click="Spare_parts_Click">
+                    <MenuItem.Icon>
+                        <Image Source="image\shesterenka.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator Background="Red"/>
+                <MenuItem Header="Добавить неисправности" Click="Malfunction_Click">
+                    <MenuItem.Icon>
+                        <Image Source="image\WrenchIcon_1352207275.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Справка">
+                <MenuItem Header="Помощь" Click="help_Click">
+                    <MenuItem.Icon>
+                        <Image Source="image\help.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator Background="Red"/>
+                <MenuItem Header="О программе" Click="about_Click">
+                    <MenuItem.Icon>
+                        <Image Source="image\fggh.jpg"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <CheckBox x:Name="cb" Content="Включить фильтр" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top" Height="20" Unchecked="cb_Unchecked" Checked="cb_Checked" Background="White" BorderBrush="#FFF50A0A" Foreground="Black" />
+
+    </Grid>
+
+</Window>

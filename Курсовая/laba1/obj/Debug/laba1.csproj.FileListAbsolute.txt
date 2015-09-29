@@ -1,0 +1,203 @@
+c:\users\игорь\documents\visual studio 2013\Projects\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\obj\Debug\MainWindow.baml
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\obj\Debug\MainWindow.g.cs
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\obj\Debug\App.g.cs
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\obj\Debug\laba1_MarkupCompile.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\obj\Debug\laba1.g.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\obj\Debug\Window1.baml
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\laba1\laba1\obj\Debug\Window1.g.cs
+C:\Users\Игорь\documents\visual studio 2013\Projects\laba1\laba1\obj\Debug\Window2.baml
+C:\Users\Игорь\documents\visual studio 2013\Projects\laba1\laba1\obj\Debug\Window2.g.cs
+C:\Users\Игорь\documents\visual studio 2013\Projects\laba1\laba1\obj\Debug\Window3.baml
+C:\Users\Игорь\documents\visual studio 2013\Projects\laba1\laba1\obj\Debug\Window3.g.cs
+D:\Базы Данных\laba1\laba1\bin\Debug\laba1.exe.config
+D:\Базы Данных\laba1\laba1\obj\Debug\laba1.exe
+D:\Базы Данных\laba1\laba1\obj\Debug\laba1.pdb
+D:\Базы Данных\laba1\laba1\bin\Debug\laba1.exe
+D:\Базы Данных\laba1\laba1\bin\Debug\laba1.pdb
+D:\Базы Данных\laba1\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+D:\Базы Данных\laba1\laba1\obj\Debug\MainWindow.baml
+D:\Базы Данных\laba1\laba1\obj\Debug\Window1.baml
+D:\Базы Данных\laba1\laba1\obj\Debug\Window2.baml
+D:\Базы Данных\laba1\laba1\obj\Debug\Window3.baml
+D:\Базы Данных\laba1\laba1\obj\Debug\MainWindow.g.cs
+D:\Базы Данных\laba1\laba1\obj\Debug\Window1.g.cs
+D:\Базы Данных\laba1\laba1\obj\Debug\Window2.g.cs
+D:\Базы Данных\laba1\laba1\obj\Debug\Window3.g.cs
+D:\Базы Данных\laba1\laba1\obj\Debug\App.g.cs
+D:\Базы Данных\laba1\laba1\obj\Debug\laba1_MarkupCompile.cache
+D:\Базы Данных\laba1\laba1\obj\Debug\laba1.g.resources
+D:\Базы Данных\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+D:\Базы Данных\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+D:\Базы Данных\laba1\laba1\obj\Debug\Window4.baml
+D:\Базы Данных\laba1\laba1\obj\Debug\Window4.g.cs
+D:\Базы Данных\laba1\laba1\obj\Debug\Window5.baml
+D:\Базы Данных\laba1\laba1\obj\Debug\Window5.g.cs
+D:\Базы Данных\laba1\laba1\obj\Debug\Window6.baml
+D:\Базы Данных\laba1\laba1\obj\Debug\Window6.g.cs
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\bin\Debug\laba1.exe.config
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.exe
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.pdb
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\MainWindow.baml
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window1.baml
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window2.baml
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window3.baml
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window4.baml
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window5.baml
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window6.baml
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\MainWindow.g.cs
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window1.g.cs
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window2.g.cs
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window3.g.cs
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window4.g.cs
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window5.g.cs
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window6.g.cs
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\App.g.cs
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1_MarkupCompile.cache
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.g.resources
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.Properties.Resources.resources
+d:\-=УНИВЕР=-\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\Курсовая\laba1\bin\Debug\laba1.exe.config
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\laba1.exe
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\laba1.pdb
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\MainWindow.baml
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\MainWindow.g.cs
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\App.g.cs
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\laba1_MarkupCompile.cache
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\laba1.g.resources
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\Курсовая\laba1\bin\Debug\laba1.exe
+C:\Users\Игорь\Desktop\Курсовая\laba1\bin\Debug\laba1.pdb
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\laba1_Content.g.cs
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Edit.baml
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Master.baml
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Master_edit.baml
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Malfunction.baml
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Malfunction_edit.baml
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Edit.g.cs
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Master.g.cs
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Master_edit.g.cs
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Malfunction.g.cs
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Malfunction_edit.g.cs
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Spare_parts.baml
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Spare_parts_edit.baml
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Spare_parts.g.cs
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Spare_parts_edit.g.cs
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Window1.baml
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Window1.g.cs
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Window9.baml
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\Window9.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\bin\Debug\laba1.exe.config
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.exe
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.pdb
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\bin\Debug\baza\DB.mdf
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\bin\Debug\baza\DB_log.ldf
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\bin\Debug\laba1.exe
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\bin\Debug\laba1.pdb
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\MainWindow.baml
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Edit.baml
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Master.baml
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Master_edit.baml
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Spare_parts.baml
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Spare_parts_edit.baml
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Malfunction.baml
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\malfunction_edit.baml
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window1.baml
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window9.baml
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\MainWindow.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Edit.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Master.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Master_edit.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Spare_parts.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Spare_parts_edit.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Malfunction.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\malfunction_edit.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window1.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window9.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\App.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1_Content.g.cs
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1_MarkupCompile.cache
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.g.resources
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Игорь\Desktop\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+H:\4 семестр\ООП\Курсовая\laba1\bin\Debug\laba1.exe.config
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.exe
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.pdb
+H:\4 семестр\ООП\Курсовая\laba1\bin\Debug\baza\DB.mdf
+H:\4 семестр\ООП\Курсовая\laba1\bin\Debug\baza\DB_log.ldf
+H:\4 семестр\ООП\Курсовая\laba1\bin\Debug\laba1.exe
+H:\4 семестр\ООП\Курсовая\laba1\bin\Debug\laba1.pdb
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\MainWindow.baml
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Edit.baml
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Master.baml
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Master_edit.baml
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Spare_parts.baml
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Spare_parts_edit.baml
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Malfunction.baml
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\malfunction_edit.baml
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window1.baml
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window9.baml
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\MainWindow.g.cs
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Edit.g.cs
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Master.g.cs
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Master_edit.g.cs
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Spare_parts.g.cs
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Spare_parts_edit.g.cs
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Malfunction.g.cs
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\malfunction_edit.g.cs
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window1.g.cs
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window9.g.cs
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\App.g.cs
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1_Content.g.cs
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1_MarkupCompile.cache
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.g.resources
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.Properties.Resources.resources
+H:\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\bin\Debug\laba1.exe.config
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.exe
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.pdb
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\bin\Debug\laba1.exe
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\bin\Debug\laba1.pdb
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\MainWindow.baml
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Edit.baml
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Master.baml
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Master_edit.baml
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Spare_parts.baml
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Spare_parts_edit.baml
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Malfunction.baml
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\malfunction_edit.baml
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window1.baml
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window9.baml
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\MainWindow.g.cs
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Edit.g.cs
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Master.g.cs
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Master_edit.g.cs
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Spare_parts.g.cs
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Spare_parts_edit.g.cs
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Malfunction.g.cs
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\malfunction_edit.g.cs
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window1.g.cs
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\Window9.g.cs
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\App.g.cs
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1_Content.g.cs
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1_MarkupCompile.cache
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.g.resources
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.Properties.Resources.resources
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\bin\Debug\Database1.mdf
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\bin\Debug\Database1_log.ldf
+H:\Учеба\4 семестр\ООП\Курсовая\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\Курсовая\laba1\bin\Debug\Database1.mdf
+C:\Users\Игорь\Desktop\Курсовая\laba1\bin\Debug\Database1_log.ldf
+C:\Users\Игорь\Desktop\Курсовая\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
